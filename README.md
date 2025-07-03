@@ -21,3 +21,11 @@ pacman:
 Windows:
 
 >https://www.raylib.com/
+
+## Compilando (linux)
+
+```
+git clone https://github.com/cft-utfpr/colisoes.git
+cd colisoes
+gcc collisions3d.c -lm -lraylib -o out
+```
