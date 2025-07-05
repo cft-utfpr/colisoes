@@ -3,6 +3,8 @@
 
 <img src="assets/Screenshot_3D.png">
 
+### [Video de explicação](https://www.youtube.com/watch?v=tBQk_vrPl2E)
+
 ## Opções
 - `--no-sound`: Desativa o som das colisões
 - `--resolution larguraxaltura`: Especifica o tamanho da janela diretamente
